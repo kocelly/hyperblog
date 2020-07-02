@@ -5,4 +5,4 @@ No es util en lo absoluto, pero ayudara a notar cambios en git.
 Esta es una nueva linea para agregar un segundo commit.
 Agregaria cosas sobre Freddy, pero nah, que flojera.
 
-Hoy hablaremos en vez de su historia, de su vida.
+Hoy hablaremos en vez de su historia de su vida y obra maestra.
